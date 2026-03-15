@@ -5,7 +5,7 @@
 - View all expenses in a table
 - Total spending
 - Category summary
-- Saves data to JSON and loads on restart
+- Saves data to JSON and loads on restart verify
 
 ## Setup
 1. Create & activate venv
